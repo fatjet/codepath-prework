@@ -1,9 +1,6 @@
 # Pre-work - **TipHelper**
 
 ***TipHelper** is a tip calculator application for iOS.*
-
-Submitted by: **Fatjeta** <3
-
 *Time spent: **1** hour spent in total*
 
 ## User Stories
