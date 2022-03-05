@@ -4,7 +4,7 @@
 
 Submitted by: **Fatjeta** <3
 
-*Time spent: **1** hours spent in total*
+*Time spent: **1** hour spent in total*
 
 ## User Stories
 
